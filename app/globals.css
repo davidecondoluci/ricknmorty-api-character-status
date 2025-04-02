@@ -1,5 +1,5 @@
-@import '../node_modules/modern-normalize/modern-normalize.css';
-@import '../node_modules/tailwindcss-preflight/preflight.css';
+@import "../node_modules/modern-normalize/modern-normalize.css";
+@import "../node_modules/tailwindcss-preflight/preflight.css";
 
 /**
 * Global CSS variables
@@ -8,11 +8,11 @@
 */
 :root {
   --grey: rgb(60, 55, 68);
-  --white: #FBFFF1;
-  --strong: #090C9B;
-  --normal: #3066BE;
-  --light: #B4C5E4;
-  --red: #BE4030;
+  --white: #fbfff1;
+  --strong: #090c9b;
+  --normal: #3066be;
+  --light: #b4c5e4;
+  --red: #be4030;
 }
 
 /**
